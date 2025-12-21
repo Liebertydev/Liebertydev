@@ -7,7 +7,7 @@
 - 😄 Pronouns: Ele/Dele
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liebertydev&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liebertydev&show_icons=true&theme=github_dark"&cache_seconds=1800/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liebertydev&layout=compact&theme=github_dark"/>
 </div>
 
