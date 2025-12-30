@@ -35,3 +35,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Liebertydev/Liebertydev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Liebertydev/Liebertydev/output/github-contribution-grid-snake.svg">
 </picture>
+
+https://github-readme-stats.vercel.app/api?username=SEU_USERNAME
+https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME
+
