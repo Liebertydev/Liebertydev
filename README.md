@@ -4,7 +4,7 @@
 
 - 🔭 Hoje trabalho como estagiário em TI, especificamente Suporte
 - 🌱 Estudando JavaScript, React e TypeScript
-- 😄 Pronouns: Ele/Dele
+- ♂️ Pronouns: Ele/Dele
 
 <div>
   <img
